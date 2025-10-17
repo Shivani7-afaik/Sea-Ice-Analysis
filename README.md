@@ -1,4 +1,4 @@
-# Sea-Ice-Analysis-
+# Sea-Ice-Analysis
 Data processing and visualization of sea ice thickness trends using Python, Pandas, and Matplotlib. Used the dataset of CRYOSAT from 2010-2020.
 
 ##  Sea Ice Thickness Data Processing and Visualization  
